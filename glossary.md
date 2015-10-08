@@ -26,7 +26,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **preprocessor** Sass, LESS 
 
-**refector** - editing or tuning your code, so that it fulfills its purpose in exactly the same way as it was before, only more efficiently, like editing a sentence to convey the same meaning in fewer words. 
+**refactor** - editing or tuning your code, so that it fulfills its purpose in exactly the same way as it was before, only more efficiently, like editing a sentence to convey the same meaning in fewer words. 
 
 **regular expression (regex)**  - a way to search for particular strings of information.  For more information, check out this [overview](http://www.regular-expressions.info/)
 
