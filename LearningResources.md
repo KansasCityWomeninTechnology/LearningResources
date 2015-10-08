@@ -1,0 +1,63 @@
+Additional Learning Resources
+=============================
+
+**Utilize these resources to continue learning outside organized events.**
+
+When you get stuck on something, first try googling your problem to see if you can find an answer online.  Chances are someone else has run into the same or a similar problem to what you are having.
+
+[Stackoverflow](http://stackoverflow.com/) is a question and answer site for professional and enthusiast programmers.  Built and run by programmers helping each other.
+
+Our [Slack group](http://kcwit.slack.com/) is available for you to collaborate with other #ladydevs to help each other work through learning code.  We’ll also be around periodically to help answer questions.
+
+##Tutorials and Courses:
+[Codecademy](http://www.codecademy.com/):  
+Codecademy is rethinking the entire paradigm of ‘education’.  Classes are free, and designed to be self paced, friendly and easy to follow. It’s also the online learning tool of choice for Coding & Cocktails!
+
+[W3Schools](http://www.w3schools.com/):  
+From the first screen you can dive into HTML, CSS, JavaScript and other front-end tools, or you can use it like a reference tool and look up the answers to specific questions. Companies like DST Systems use W3Schools to teach basic CSS/HTML.
+
+[Khan Academy](https://www.khanacademy.org/):  
+Khan academy provides online education at all levels - seriously, they have games for kindergarteners! Their motto - “you can learn anything.” Offering education for children and adults alike you can easily go back and refresh those algebra skills just in time to help your tween with her homework, from the privacy of your own home, without feeling silly for reading your child’s textbooks after he goes to bed. 
+
+[Coursera](https://www.coursera.org/):  
+Coursera offers over 1,300 paid and free courses ranging from the humanities to computer programming by partnering with education institutions all over the world. Note: Many computer classes are offered for hundreds of dollars - don’t pay it!!! Sign up for a free account, and on a regular basis Coursera will run specials that will allow you to take classes for $9.99 to $19.99. Classes include video courses, some with assignments that are both peer and instructor-graded, lending them more weight.
+
+[Udemy](https://www.udemy.com/):  
+Type in the subject you are looking for and go to town.  Courses often are shown for $59 and up - but don’t pay it!! Just like other sites, sign up for the email and wait for the discounted courses. 
+
+[Ed2Go through Metropolitan Community College](http://www.ed2go.com/):  
+For the most college-like experience, take classes that are 4-6 weeks long, have homework, and are graded pass/fail.  These won’t earn you college credit but you can have a higher degree of certainty in the quality of the education. This is the most expensive option, but if you sign up through the Metropolitan Community College web site (no need to be a registered student), you get their discount, lower the price of courses from $129 per course to $109 per course. 
+
+[Lynda.com](http://www.lynda.com/):  
+A resource with online videos and interactive examples for many of the different programming languages.  Pricing ranges from $19.99/month up to $39.99/month.
+
+[Code School](https://www.codeschool.com/):  
+Online learning resource that teaches courses with a theme and storyline aimed at making you feel like you’re playing a game, not sitting in a classroom.  Prices are $29/month or $290/year.
+
+[Code4Startup](https://code4startup.com/):  
+Work through tutorials to quickly help you start building your own app.
+
+[Skillshare](https://www.skillshare.com/):  
+A learning community for creators.  Online classes you can watch on your own time.
+
+
+##Learn coding skills through playing games:
+[CSS Diner](http://flukeout.github.io/) - learn and practice CSS selectors while playing a game  
+[Regex Crossword](https://regexcrossword.com/) - crossword puzzle game where clues are defined using regular expressions  
+[Coding Game](https://www.codingame.com/) - solve puzzles and improve your skills while playing a game  
+[Code Combat](https://codecombat.com/) - learn to code by playing a game  
+[Code Wars](http://www.codewars.com/) - train with others on real code challenges  
+[Vim Adventures](http://vim-adventures.com/) - learn commands for a popular command line editor (vim)  
+[Scratch](https://scratch.mit.edu/) - drag and drop programming, this is the meat and potatoes of CoderDojo, one of our sister KCWiT programs!  
+[Code with Anna and Elsa from Frozen](https://studio.code.org/s/frozen/) 
+
+
+##Free College Computer Science Courses:
+[Harvard](https://cs50.harvard.edu/)  
+[MIT](http://ocw.mit.edu/courses/intro-programming/)
+
+
+##Other local groups/meetups: 
+[Girl Develop It](https://www.girldevelopit.com/chapters/kansas-city)  
+[Kansas City User Groups](http://www.kansascityusergroups.com/) - IT Education Opportunities in the Kansas City Metro Area  
+[Code for America KC Brigade](http://www.meetup.com/kcbrigade/)
