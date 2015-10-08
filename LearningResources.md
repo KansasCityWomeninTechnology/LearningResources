@@ -29,7 +29,8 @@ Type in the subject you are looking for and go to town.  Courses often are shown
 For the most college-like experience, take classes that are 4-6 weeks long, have homework, and are graded pass/fail.  These won’t earn you college credit but you can have a higher degree of certainty in the quality of the education. This is the most expensive option, but if you sign up through the Metropolitan Community College web site (no need to be a registered student), you get their discount, lower the price of courses from $129 per course to $109 per course. 
 
 [Lynda.com](http://www.lynda.com/):  
-A resource with online videos and interactive examples for many of the different programming languages.  Pricing ranges from $19.99/month up to $39.99/month.
+A resource with online videos and interactive examples for many of the different programming languages.  Pricing ranges from $19.99/month up to $39.99/month though most metro libraries will allow you access for free with a library card.  
+[Kansas City Library](http://www.kclibrary.org/online-learning)  |  [Johnson County Library](http://www.jocolibrary.org/elibrary/elearning/lyndadotcom)   |  [Mid-Continent Public Library](http://www.mymcpl.org/online-information/research-database/91733)
 
 [Code School](https://www.codeschool.com/):  
 Online learning resource that teaches courses with a theme and storyline aimed at making you feel like you’re playing a game, not sitting in a classroom.  Prices are $29/month or $290/year.
