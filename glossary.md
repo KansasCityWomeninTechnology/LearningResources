@@ -16,11 +16,15 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **data warehouse** a repository for data, usuallyl from disparate sources. The common repository allows for more efficient reporting and data analysis.
 
-**full-stack** If someone tells you they are a full-stack developer then that person is saying she has the ability to code end-user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored. 
+**full-stack** - if someone tells you they are a full-stack developer then that person is saying she has the ability to code end-user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
 
-**Graphical User Interface** - aka "GUI" - refers to the point-and-click style technology that allows a user to make selections without writing a bunch of complicated code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's. 
+**build tools** -  are those that help you turn your code into excecutable application. We will use gulp and grunt (yes, they are supposed to be in lower case!)
 
-**integraged developer environment**(IDE) a one-stop program or system that allows for writing and compiling code as well as debugging. For more information, look here:  http://mashable.com/2010/10/06/ide-guide/#kViayEg1.uq4
+**client-side** - a reference to which side of the mirror activity happens on; in this case, where the user sees and interacts with it - such as a web site interface. If you think of it as a clock, the "client side" is the clock face, where you set the time. 
+
+**graphical user interface (GUI)** - refers to the point-and-click style technology that allows a user to make selections without writing a bunch of complicated code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's. 
+
+**integraged developer environment**(IDE) a software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here:  http://mashable.com/2010/10/06/ide-guide/#kViayEg1.uq4
 
 **joint application design** (JAD) - a method of developing requirements for software projects where all of the stakeholders collaborate in the development of project requirements, with the intention of improving the quality of requirements and efficency and quality of the eventual solution.
 
@@ -30,7 +34,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **markdown text** - this document is written in markdown and, like, HTML, is a basic language used for formatting text documents that can be read and interpreted by web sites.  
 
-**open source** a software philosophy that espouses the idea that software code should be available to everyone to see and improve upon.  In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary. 
+**open source** - a software philosophy that espouses the idea that software code should be available to everyone to see and improve upon.  In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary. 
 
 **plugin** - a tool, like a miniature program, that enhances your developer experience by making certain tasks easier. 
 
@@ -42,7 +46,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **regular expression (regex)**  - a way to search for particular strings of information.  For more information, check out this [overview](http://www.regular-expressions.info/)
 
-**repository** also known as a repo, is a reference to your library of code, and is commonly used when speaking of GitHub.
+**repository** - also known as a repo, is a reference to your library of code, and is commonly used when speaking of GitHub.
 
 **runtime environment** - a reference to wherever your program is running, such as an operating system like Windows or HP, or a network server. 
 
@@ -50,8 +54,12 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **server-side** - a reference to which side of the mirror activity happens - out of public eye where the work goes on, as opposed to the front-end interface that the public or client uses. 
 
-**syntax** the 'grammar' of a coding language. Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
+**syntax** - the 'grammar' of a coding language. Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
 
 **UIX** - user interface; usually refers to a tool or programmer who has experience designing the views users see, whether it be dialog boxes, icons, or even determining the number of clicks it takes to get from the home page to your specific destination on a web site. 
+
+**user experience (UX)** - optimizing workflow and enhancing user satisfaction by improving the interaction between the consumer and the product. Enhancements are typically guided by scientific research and testing. 
+
+**user interface (UI)** - look and feel of an application, the visual assets. 
 
 **Waterfall Method (of software development)** an older variety of software development consisting of distinct phases, each of which must be completed in its entirety before moving on to the next: Requirements gathering, design, construction, testing and implementation.
