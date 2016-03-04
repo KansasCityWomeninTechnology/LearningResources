@@ -6,60 +6,54 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 ##### Be sure to let us know if you think something needs to be added. As you become comfortable with git push/pull requests, you can send pull requests that we will curate and add to the list!
 
-**Agile (software development)** a method of software development commonly used today which is characterized by a focus on rapid product delivery through the use of iterative multi-week periods, called "sprints" and a collaborative, rather than siloed, approach to team member roles. 
+**Agile Method (of software development)** - A method commonly used today for software development which is characterized by a focus on rapid product delivery through the use of iterative multi-week periods, called "sprints" and a collaborative, rather than siloed, approach to team member roles. 
 
-**bootstrapping** Shortened to the more familiar term "boot", the program which load the operating system.
+**Bootstrapping** - Equivalent of initializing or starting your application.
 
-**build tools** -  are those that help you turn your code into excecutable applicationw. We will use gulp and grunt (yes, they are supposed to be in lower case!)
+**Build Tools** -  Utilities to help you turn your code into an excecutable application through compliation, linking and packaging.
 
-**client-side** - a reference to which side of the mirror activity happens on; in this case, where the user sees and interacts with it - such as a web site interface. If you think of it as a clock, the "client side" is the clock face, where you set the time. 
+**Client-Side** - Client is an application - such as your web browser (Chrome, Internet Explorer, etc) - running on your local computer.  One piece of the client-server relationship.  Often requests information from the server.
 
-**data warehouse** a repository for data, usuallyl from disparate sources. The common repository allows for more efficient reporting and data analysis.
+**Data Warehouse** - A repository for data, usually from disparate sources. The common repository allows for more efficient reporting and data analysis.
 
-**full-stack** - if someone tells you they are a full-stack developer then that person is saying she has the ability to code end-user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
+**Full-Stack** - If someone tells you they are a full-stack developer then that person is saying she has the ability to code user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
 
-**build tools** -  are those that help you turn your code into excecutable application. We will use gulp and grunt (yes, they are supposed to be in lower case!)
+**Graphical User Interface (GUI)** - The area where the user interacts with an application. Often point-and-click style interaction that allows a user to make selections without writing code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's. 
 
-**client-side** - a reference to which side of the mirror activity happens on; in this case, where the user sees and interacts with it - such as a web site interface. If you think of it as a clock, the "client side" is the clock face, where you set the time. 
+**Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here:  http://mashable.com/2010/10/06/ide-guide/#kViayEg1.uq4
 
-**graphical user interface (GUI)** - refers to the point-and-click style technology that allows a user to make selections without writing a bunch of complicated code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's. 
+**Joint Application Design (JAD)** - A method of developing requirements for software projects where all of the stakeholders collaborate in the development of project requirements, with the intention of improving the quality of requirements and efficency and quality of the eventual solution.
 
-**integraged developer environment**(IDE) a software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here:  http://mashable.com/2010/10/06/ide-guide/#kViayEg1.uq4
+**Linter**  - A tool that flags suspicious code in software written in any computer language.
 
-**joint application design** (JAD) - a method of developing requirements for software projects where all of the stakeholders collaborate in the development of project requirements, with the intention of improving the quality of requirements and efficency and quality of the eventual solution.
+**Linting** - Running a program that checks your code for syntax errors (i.e using double vs single quotes)
 
-**linter**  is any tool that flags suspicious usage in software written in any computer language.
+**Markdown Text** - This document is written in markdown syntax and like HTML, is a basic language used for formatting text documents that can be read and interpreted on the web.  
 
-**linting** - running a program that checks your code for syntax errors (i.e using double vs single quotes)
+**Open Source** - A software philosophy that espouses the idea that code should be available to everyone to see and improve upon.  In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary. 
 
-**markdown text** - this document is written in markdown and, like, HTML, is a basic language used for formatting text documents that can be read and interpreted by web sites.  
+**Plugin** - A tool, like a miniature program, that enhances your developer experience by making certain tasks easier. 
 
-**open source** - a software philosophy that espouses the idea that software code should be available to everyone to see and improve upon.  In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary. 
+**Preprocessor** - A tool that will take input data and produce different output that will be used by another program often making code more efficient and easier to read.  Examples include Sass and LESS which both extend the CSS language and allow for use of things like variables, etc.
 
-**plugin** - a tool, like a miniature program, that enhances your developer experience by making certain tasks easier. 
+**Rapid Application Development (RAD)** - A software development methodology generally used to refer to one of many software development methods (including Agile) which do not follow the waterfall method, which is seen as inefficient and generally obsolete, especially for front end development.
 
-**preprocessor** - a software tool (a program) that converts data of one type into data of another type for the purpose of making code easier for people to read and more efficiently written.  LESS and SASS are two commonly used preprocessors.
+**Refactor** - Editing or tuning your code, so that it fulfills its purpose in exactly the same way as it was before, only more efficiently, like editing a sentence to convey the same meaning in fewer words. 
 
-**rapid application development** (RAD) - a software development methodology generally used to refer to one of many software development methods (including Agile) which do not follow the waterfall method, which is seen as inefficient and generally obsolete, especially for front end development.
+**Regular Expression (regex)**  - A way to search for particular strings of information.  For more information, check out this [overview](http://www.regular-expressions.info/)
 
-**refactor** - editing or tuning your code, so that it fulfills its purpose in exactly the same way as it was before, only more efficiently, like editing a sentence to convey the same meaning in fewer words. 
+**Repository** - Also known as a repo, is a reference to your library of code, and is commonly used when speaking of GitHub.
 
-**regular expression (regex)**  - a way to search for particular strings of information.  For more information, check out this [overview](http://www.regular-expressions.info/)
+**Runtime Environment** - A reference to wherever your program is running, such as an operating system like Windows, or a network server. 
 
-**repository** - also known as a repo, is a reference to your library of code, and is commonly used when speaking of GitHub.
+**Scaffolding** - Used in reference to a utility program or programs that support the code you write by performing some of the less glamorous underlying functions.
 
-**runtime environment** - a reference to wherever your program is running, such as an operating system like Windows or HP, or a network server. 
+**Server-Side** - One piece of the client-server relationship.  Typically a remote server reachable from the user's local computer.  Responsible for serving content to the client or processing and storing data.
 
-**scaffolding** - (or scaffold) used in reference to a utility program or programs that support the code you write by performing some of the less glamorous underlying functions.
+**Syntax** - The 'grammar' of a coding language. Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
 
-**server-side** - a reference to which side of the mirror activity happens - out of public eye where the work goes on, as opposed to the front-end interface that the public or client uses. 
+**User Experience (UX)** - Optimizing workflow and enhancing user satisfaction by improving the interaction between the consumer and the product. Enhancements are typically guided by scientific research and testing and may include things such as reducing the number of clicks it takes to accomplish a task. 
 
-**syntax** - the 'grammar' of a coding language. Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
+**User Interface (UI)** - The look and feel of an application, the visual assets such as dialog boxes, icons, etc. 
 
-**UIX** - user interface; usually refers to a tool or programmer who has experience designing the views users see, whether it be dialog boxes, icons, or even determining the number of clicks it takes to get from the home page to your specific destination on a web site. 
-
-**user experience (UX)** - optimizing workflow and enhancing user satisfaction by improving the interaction between the consumer and the product. Enhancements are typically guided by scientific research and testing. 
-
-**user interface (UI)** - look and feel of an application, the visual assets. 
-
-**Waterfall Method (of software development)** an older variety of software development consisting of distinct phases, each of which must be completed in its entirety before moving on to the next: Requirements gathering, design, construction, testing and implementation.
+**Waterfall Method (of software development)** - An older variety of software development consisting of distinct phases, each of which must be completed in its entirety before moving on to the next: Requirements gathering, design, construction, testing and implementation.
