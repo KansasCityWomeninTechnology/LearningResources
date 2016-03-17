@@ -46,6 +46,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Runtime Environment** - A reference to wherever your program is running, such as an operating system like Windows, or a network server. 
 
+**Rubber Duck Debugging** - A form of code review and debugging where the developer explains the code aloud line by line, as simply as possible, without risk of judgment (as if explaining to a toy rubber duck).
+
 **Scaffolding** - Used in reference to a utility program or programs that support the code you write by performing some of the less glamorous underlying functions.
 
 **Server-Side** - One piece of the client-server relationship.  Typically a remote server reachable from the user's local computer.  Responsible for serving content to the client or processing and storing data.
