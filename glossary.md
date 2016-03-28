@@ -44,7 +44,9 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Linting** - Running a program that checks your code for syntax errors (i.e using double vs single quotes)
 
-**Markdown Text** - This document is written in markdown syntax and like HTML, is a basic language used for formatting text documents that can be read and interpreted on the web.  
+**Markdown Text** - This document is written in markdown syntax and like HTML, is a basic language used for formatting text documents that can be read and interpreted on the web. 
+
+**Minification** - Removing unnecessary characters such as spaces, new lines and comments to reduce file size therefore making the load time faster due to the reduced amount of data transfer required.
 
 **Mixin** - Used to describe that an object should copy all the properties from another object.  Allows extension by inclusion instead of inheritance. In the scope of Sass this is sort of a "function" to allow common styling properties to be re-used across multiple selectors.
 
