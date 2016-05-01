@@ -28,6 +28,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Don't Repeat Yourself (DRY)** - A principle of software development aimed at reducing repetition.  That is, don't repeat the same code in multiple locations, that makes code maintenance difficult!
 
+**Event Handler** - Managing how your web page reacts to "events." Events could include being clicked, keys being pressed, mouse moving over or off of an element and much more.
+
 **Full-Stack** - If someone tells you they are a full-stack developer then that person is saying she has the ability to code user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
 
 **Graphical User Interface (GUI)** - The area where the user interacts with an application. Often point-and-click style interaction that allows a user to make selections without writing code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's. 
@@ -37,6 +39,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 **Hexidecimal (Hex) Color** - A color specified by hex triplet (six-digit, three-byte hexadecimal number) to determine the Red, Green and Blue components of the color by bytes. One byte can specify the color in the range of 00 to FF 00 being least intensity and FF being greatest intensity of the color. White is #FFFFFF in Hex format.
 
 **Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here:  http://mashable.com/2010/10/06/ide-guide/#kViayEg1.uq4
+
+**JavaScript Library** - Pre-written JavaScript code that can be utilized within your web application.  Examples include jQuery, bxSlider and many more.
 
 **Joint Application Design (JAD)** - A method of developing requirements for software projects where all of the stakeholders collaborate in the development of project requirements, with the intention of improving the quality of requirements and efficency and quality of the eventual solution.
 
