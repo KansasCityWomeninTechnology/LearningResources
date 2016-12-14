@@ -13,7 +13,7 @@ Our [Slack group](http://kcwit.slack.com/) is available for you to collaborate w
 [Codecademy](http://www.codecademy.com/):  
 Codecademy is rethinking the entire paradigm of ‘education’.  Classes are free, and designed to be self paced, friendly and easy to follow. It’s also the online learning tool of choice for Coding & Cocktails!
 
-[freeCodeCamp](https://www.freecodecamp.com/):
+[freeCodeCamp](https://www.freecodecamp.com/):  
 A community that helps you learn to code via self-paced coding challenges, building projects, and earning certificates. 
 
 [W3Schools](http://www.w3schools.com/):  
