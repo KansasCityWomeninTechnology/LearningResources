@@ -1,12 +1,12 @@
-#Coding & Cocktails Glossary
+Agile Method (of software development) #Coding & Cocktails Glossary
 
 ####Brief definitions of terms you might hear at C&C events!
 
-Although this list will grow over time, one of the easiest ways to research a term you have never heard is to type your question in Google. Frequently top hits will either be [Wikipedia](http://wikipedia.org) or [Stack Overflow](http://stackoverflow.com) - both solid resources. 
+Although this list will grow over time, one of the easiest ways to research a term you have never heard is to type your question in Google. Frequently top hits will either be [Wikipedia](http://wikipedia.org) or [Stack Overflow](http://stackoverflow.com) - both solid resources.
 
 ##### Be sure to let us know if you think something needs to be added. As you become comfortable with git push/pull requests, you can send pull requests that we will curate and add to the list!
 
-**Agile Method (of software development)** - A method commonly used today for software development which is characterized by a focus on rapid product delivery through the use of iterative multi-week periods, called "sprints" and a collaborative, rather than siloed, approach to team member roles. 
+**Agile Method (of software development)** - A method commonly used today for software development which is characterized by a focus on rapid product delivery through the use of iterative multi-week periods, called "sprints" and a collaborative, rather than siloed, approach to team member roles.
 
 **Application Programming Interface (API)** - A set of functions or methods used to access some functionality.
 
@@ -14,7 +14,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Bootstrapping** - Equivalent of initializing or starting your application.
 
-**(Twitter) Bootstrap** - An HTML, CSS, and JavaScript framework to help quickly develop and style responsive web applications. 
+**(Twitter) Bootstrap** - An HTML, CSS, and JavaScript framework to help quickly develop and style responsive web applications.
 
 **Build Tools** -  Utilities to help you turn your code into an excecutable application through compliation, linking and packaging.
 
@@ -32,7 +32,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Full-Stack** - If someone tells you they are a full-stack developer then that person is saying she has the ability to code user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
 
-**Graphical User Interface (GUI)** - The area where the user interacts with an application. Often point-and-click style interaction that allows a user to make selections without writing code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's. 
+**Graphical User Interface (GUI)** - The area where the user interacts with an application. Often point-and-click style interaction that allows a user to make selections without writing code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's.
 
 **Hero Image** - A styling reference for a large banner image placed prominently on a web page.
 
@@ -48,7 +48,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Linting** - Running a program that checks your code for syntax errors (i.e using double vs single quotes)
 
-**Markdown Text** - This document is written in markdown syntax and like HTML, is a basic language used for formatting text documents that can be read and interpreted on the web. 
+**Markdown Text** - This document is written in markdown syntax and like HTML, is a basic language used for formatting text documents that can be read and interpreted on the web.
 
 **Method** - A method is a procedure associated with an object. For example, you could have an object, **Window** which has an **open()** and a **close()** method.
 
@@ -56,15 +56,15 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Mixin** - Used to describe that an object should copy all the properties from another object.  Allows extension by inclusion instead of inheritance. In the scope of Sass this is sort of a "function" to allow common styling properties to be re-used across multiple selectors.
 
-**Open Source** - A software philosophy that espouses the idea that code should be available to everyone to see and improve upon.  In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary. 
+**Open Source** - A software philosophy that espouses the idea that code should be available to everyone to see and improve upon.  In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary.
 
-**Plugin** - A tool, like a miniature program, that enhances your developer experience by making certain tasks easier. 
+**Plugin** - A tool, like a miniature program, that enhances your developer experience by making certain tasks easier.
 
 **Preprocessor** - A tool that will take input data and produce different output that will be used by another program often making code more efficient and easier to read.  Examples include Sass and LESS which both extend the CSS language and allow for use of things like variables, etc.
 
 **Rapid Application Development (RAD)** - A software development methodology generally used to refer to one of many software development methods (including Agile) which do not follow the waterfall method, which is seen as inefficient and generally obsolete, especially for front end development.
 
-**Refactor** - Editing or tuning your code, so that it fulfills its purpose in exactly the same way as it was before, only more efficiently, like editing a sentence to convey the same meaning in fewer words. 
+**Refactor** - Editing or tuning your code, so that it fulfills its purpose in exactly the same way as it was before, only more efficiently, like editing a sentence to convey the same meaning in fewer words.
 
 **Regular Expression (regex)**  - A way to search for particular strings of information.  For more information, check out this [overview](http://www.regular-expressions.info/)
 
@@ -74,7 +74,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **RGB Color** - Colors specified by the amount of Red, Green and Blue components that make up the color in the ranges of 0 (least color intensity) to 255 (most color intensity). White is (255,255,255) in RGB format
 
-**Runtime Environment** - A reference to wherever your program is running, such as an operating system like Windows, or a network server. 
+**Runtime Environment** - A reference to wherever your program is running, such as an operating system like Windows, or a network server.
 
 **Rubber Duck Debugging** - A form of code review and debugging where the developer explains the code aloud line by line, as simply as possible, without risk of judgment (as if explaining to a toy rubber duck).
 
@@ -84,9 +84,9 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Syntax** - The 'grammar' of a coding language. Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
 
-**User Experience (UX)** - Optimizing workflow and enhancing user satisfaction by improving the interaction between the consumer and the product. Enhancements are typically guided by scientific research and testing and may include things such as reducing the number of clicks it takes to accomplish a task. 
+**User Experience (UX)** - Optimizing workflow and enhancing user satisfaction by improving the interaction between the consumer and the product. Enhancements are typically guided by scientific research and testing and may include things such as reducing the number of clicks it takes to accomplish a task.
 
-**User Interface (UI)** - The look and feel of an application, the visual assets such as dialog boxes, icons, etc. 
+**User Interface (UI)** - The look and feel of an application, the visual assets such as dialog boxes, icons, etc.
 
 **Variable** - A placeholder to store values. Allows easy access to the values in other areas of your code.
 
