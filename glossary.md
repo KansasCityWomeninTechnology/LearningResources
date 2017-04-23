@@ -1,4 +1,4 @@
-Agile Method (of software development) #Coding & Cocktails Glossary
+#Coding & Cocktails Glossary
 
 ####Brief definitions of terms you might hear at C&C events!
 
@@ -89,5 +89,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 **User Interface (UI)** - The look and feel of an application, the visual assets such as dialog boxes, icons, etc.
 
 **Variable** - A placeholder to store values. Allows easy access to the values in other areas of your code.
+
+**Version Control** - A system that manages and records changes to files, documents, and programs so collaborating developers can recall information and updates on a project over time.
 
 **Waterfall Method (of software development)** - An older variety of software development consisting of distinct phases, each of which must be completed in its entirety before moving on to the next: Requirements gathering, design, construction, testing and implementation.
