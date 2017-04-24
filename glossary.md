@@ -1,6 +1,6 @@
-#Coding & Cocktails Glossary
+# Coding & Cocktails Glossary
 
-####Brief definitions of terms you might hear at C&C events!
+#### Brief definitions of terms you might hear at C&C events!
 
 Although this list will grow over time, one of the easiest ways to research a term you have never heard is to type your question in Google. Frequently top hits will either be [Wikipedia](http://wikipedia.org) or [Stack Overflow](http://stackoverflow.com) - both solid resources.
 
