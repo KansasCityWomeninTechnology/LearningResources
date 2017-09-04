@@ -44,7 +44,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Joint Application Design (JAD)** - A method of developing requirements for software projects where all of the stakeholders collaborate in the development of project requirements, with the intention of improving the quality of requirements and efficency and quality of the eventual solution.
 
-**Letterbox** - When using the background-size property with the contain value in CSS3, the image will appear as a letterbox, with a black border above and below the image.
+**Letterbox** - When using the background-size property with the contain value in CSS3, an image with a widescreen aspect ratio will appear with a top and bottom border in order to maintain the height and width proportions of the image. The borders at the top and bottom will be styled according to the properties assigned to the container in which the image is placed. This effect is called Letterboxing because the dimensions of the image cause it to appear to be shaped like a letterbox in a door through which mail is delivered.
 
 **Linter**  - A tool that flags suspicious code in software written in any computer language.
 
