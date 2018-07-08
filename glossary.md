@@ -8,15 +8,19 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Agile Method (of software development)** - A method commonly used today for software development which is characterized by a focus on rapid product delivery through the use of iterative multi-week periods, called "sprints" and a collaborative, rather than siloed, approach to team member roles.
 
-**Application Programming Interface (API)** - A set of functions or methods used to access some functionality.
+**Application Programming Interface (API)** - A set of functions or methods used to acceses some functionality.
 
-**Browser Vendor Prefix** - Experimental or non-standard CSS Properties made available to developers by browser vendors. Typically the vendors use these prefixes -webkit- (Chrome, newer versions of Opera.), -moz- (Firefox), -o- (Old versions of Opera), -ms- (Internet Explorer)
+**(Static) Assets** - Files for a website that are served to the visitor as-is (file doesn't have to be generated, modified or processed) -- e.g. CSS, JavaScript, images, videos, pdfs
 
 **Bootstrapping** - Equivalent of initializing or starting your application.
 
 **(Twitter) Bootstrap** - An HTML, CSS, and JavaScript framework to help quickly develop and style responsive web applications.
 
-**Build Tools** -  Utilities to help you turn your code into an excecutable application through compliation, linking and packaging.
+**(Web) Browser** - An application used for retrieving, viewing and traveling across files and websites. Common browsers: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, Microsoft Internet Explorer, Opera
+
+**Browser Vendor Prefix** - Experimental or non-standard CSS Properties made available to developers by browser vendors. Typically the vendors use these prefixes -webkit- (Chrome, newer versions of Opera.), -moz- (Firefox), -o- (Old versions of Opera), -ms- (Internet Explorer)
+
+**Build Tools** -  Utilities to help you turn your code into an executable application through compilation, linking and packaging.
 
 **Client-Side** - Client is an application - such as your web browser (Chrome, Internet Explorer, etc) - running on your local computer.  One piece of the client-server relationship.  Often requests information from the server.
 
@@ -37,6 +41,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 **Hero Image** - A styling reference for a large banner image placed prominently on a web page.
 
 **Hexidecimal (Hex) Color** - A color specified by hex triplet (six-digit, three-byte hexadecimal number) to determine the Red, Green and Blue components of the color by bytes. One byte can specify the color in the range of 00 to FF 00 being least intensity and FF being greatest intensity of the color. White is #FFFFFF in Hex format.
+
+**HTML (Hypertext Markup Language)** - Language used to create documents that display text, images and other resources through a Web browser. Document names end with `.html` (or .`htm`) file extension.
 
 **Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here:  http://mashable.com/2010/10/06/ide-guide/#kViayEg1.uq4
 
