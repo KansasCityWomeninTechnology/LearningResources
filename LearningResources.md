@@ -25,7 +25,7 @@ From the first screen you can dive into HTML, CSS, JavaScript and other front-en
 
 [Lynda.com](http://www.lynda.com/):  
 A resource with online videos and interactive examples for many of the different programming languages.  Pricing ranges from $19.99/month up to $39.99/month though most metro libraries will allow you access for free with a library card.  
-[Kansas City Library](http://www.kclibrary.org/online-learning)  |  [Johnson County Library](http://www.jocolibrary.org/elibrary/elearning/lyndadotcom)   |  [Mid-Continent Public Library](http://www.mymcpl.org/online-information/research-database/91733)
+[Kansas City Public Library](https://www.kclibrary.org/research-resources/research-databases/lyndacom)  |  [Johnson County Library](http://www.jocolibrary.org/elibrary/elearning/lyndadotcom)   |  [Mid-Continent Public Library](https://www.mymcpl.org/research-and-learning/research-databases/lyndacom)
 
 [Pluralsight](https://www.pluralsight.com/):  
 Paid resource for online video training from industry experts. Offers the ability to test your skills and get recommendations or follow a learning path to guide you in the right direction.  Or take individual classes of interest to you - you can filter courses by skill-level. Pricing is $29/month or $299/year.
