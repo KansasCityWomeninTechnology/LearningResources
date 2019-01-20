@@ -12,7 +12,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Architecture** - Rules & methods describing the organization, functionality and implementation of computer systems.
 
-**(HTML) Attributes** - Used in an opening HTML tag to control tag's behavior. Applying attributes sould modify the default functionality of a tag. Some tags require attributes to work correctly.
+**(HTML) Attributes** - Used in an opening HTML tag to control tag's behavior. Applying attributes could modify the default functionality of a tag. Some tags require attributes to work correctly.
 
 **(Static) Assets** - Files for a website that are served to the visitor as-is (file doesn't have to be generated, modified or processed) -- e.g. CSS, JavaScript, images, videos, pdfs
 
@@ -22,13 +22,13 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **(Web) Browser** - An application used for retrieving, viewing and traveling across files and websites. Common browsers: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, Microsoft Internet Explorer, Opera
 
-**Browser Developer Tools (Dev Tools)** - _A web developer's best friend._ Different browsers have their own developer tools. Developer tools allow a developer to inspect how the browser is parsing their code into the DOM. It allows a developer to troubleshoot & fix bugs.
+**Browser Developer Tools (Dev Tools)** - _A web developer's best friend._ Different browsers have their own set of developer tools. Developer tools allow a developer to inspect how the browser is parsing their code into the DOM. Dev Tools are helpful for a developer to troubleshoot & fix bugs.
 
 **Browser Vendor Prefix** - Experimental or non-standard CSS Properties made available to developers by browser vendors. Typically the vendors use these prefixes -webkit- (Chrome, newer versions of Opera.), -moz- (Firefox), -o- (Old versions of Opera), -ms- (Internet Explorer)
 
-**Bugs** - _A web developer's nemesis._ An error or mistake causing a computer program or website to misbehave. Usually due to a mistake made by the developer in the code.
+**Bugs** - _A web developer's nemesis._ An error or mistake causing a computer program or website to misbehave. Usually due to a mistake made in the code, _by the developer_.
 
-**Build Tools** -  Utilities to help you turn your code into an executable application through compilation, linking and packaging.
+**Build Tools** - Utilities to help you turn your code into an executable application through compilation, linking and packaging.
 
 **Client-Side** - Client is an application - such as your web browser (Chrome, Internet Explorer, etc) - running on your local computer.  One piece of the client-server relationship.  Often requests information from the server.
 
@@ -46,7 +46,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Event Handler** - Managing how your web page reacts to "events." Events could include being clicked, keys being pressed, mouse moving over or off of an element and much more.
 
-**Front-End Architecture** - Organization of code and project files (usually HTML, CSS, JavaScript). The benefit of good architecture is efficient and maintainable code.
+**Front-End Architecture** - Organization of code and project files (usually HTML, CSS, JavaScript & images). The benefit of good architecture is efficient and maintainable code.
 
 **Full-Stack** - If someone tells you they are a full-stack developer then that person is saying she has the ability to code user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
 
@@ -60,13 +60,13 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Home Directory** - The directory/folder for the user (you are logged in as) on your computer. Typically `/users/<your user name>` on a Mac or `C:/Users/<your user name>` on a Windows machine.
 
-**HTML (Hypertext Markup Language)** - Language used to create documents that display text, images and other resources through a Web browser. HTML is the foundation of a web page. Document names end with `.html` (or .`htm`) file extension.
+**HTML (Hypertext Markup Language)** - Language used to create documents that display text, images and other resources through a Web browser. HTML is the foundation of a web page. Document names end with the `.html` (or .`htm`) file extension.
 
-**HTTP (Hypertext Transfer Protocol)** - Protocol that is the foundation of data communication for the World Wide Web. Hypertext documents (usually HTML files) inlude hyperlinks (links for short) to other resources.
+**HTTP (Hypertext Transfer Protocol)** - Protocol that is the foundation of data communication for the World Wide Web. Hypertext documents (usually HTML files) inlude hyperlinks (_links_ for short) to other resources.
 
 **HTTP Server** - Software understanding HTTP (protocol browser uses to view webpages) & URLs (web addresses).
 
-**Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here:  http://mashable.com/2010/10/06/ide-guide
+**Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here: [http://mashable.com/2010/10/06/ide-guide](http://mashable.com/2010/10/06/ide-guide)
 
 **JavaScript Library** - Pre-written JavaScript code that can be utilized within your web application.  Examples include jQuery, bxSlider and many more.
 
@@ -88,7 +88,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Open Source** - A software philosophy that espouses the idea that code should be available to everyone to see and improve upon.  In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary.
 
-**Parsing** - Process of analyzing code. (We usually use it for the browser process of analyzing and interpreting code.)
+**Parsing** - Process of analyzing code. (We usually use this term for the browser process of analyzing and interpreting code.)
 
 **Plugin** - A tool, like a miniature program, that enhances your developer experience by making certain tasks easier.
 
@@ -116,7 +116,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Scaffolding** - Used in reference to a utility program or programs that support the code you write by performing some of the less glamorous underlying functions.
 
-**Self-Closing (HTML) Tag** - An HTML tag that gets their information from attributes & doesn't require content/children.
+**Self-Closing (HTML) Tag** - An HTML tag that gets its information from attributes & doesn't require content/children.
 
 **Semantic Code** - Code using the meaning of something as opposed to the visual representation of it. ie: `<section class="about-us">` is _semantic_, `<div>` or `<section class="blue-text">` are _not semantic_.
 
@@ -124,9 +124,9 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Server-Side** - One piece of the client-server relationship.  Typically a remote server reachable from the user's local computer.  Responsible for serving content to the client or processing and storing data.
 
-**Syntax** - The 'grammar' of a coding language (the format for how you write a specific code statement). Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
+**Syntax** - The _grammar+ of a coding language (the format for how you write a specific code statement). Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
 
-**`<code>` Tag** - Used to indicate a piece of code in HTML. The **tag** consists of an opening **tag** (ie: `<div>` and a closing **tag** (ie: `/div>`), which surrounds markup that is that **tag**'s children/content. (_There are a few exceptions where a **tag** is self-closing. ie:_ `<img />`)
+**`<code>` Tag** - Used to indicate a piece of code in HTML. An HTML element consists of an opening **tag** (ie: `<div>` and a closing **tag** (ie: `/div>`), which surrounds markup that is that element's children/content. (_There are a few exceptions where a **tag** is self-closing. ie:_ `<img />`)
 
 **User Experience (UX)** - Optimizing workflow and enhancing user satisfaction by improving the interaction between the consumer and the product. Enhancements are typically guided by scientific research and testing and may include things such as reducing the number of clicks it takes to accomplish a task.
 
@@ -138,8 +138,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Waterfall Method (of software development)** - An older variety of software development consisting of distinct phases, each of which must be completed in its entirety before moving on to the next: Requirements gathering, design, construction, testing and implementation.
 
-**Web Server** - Could refer to hardware, sofware or both working together. Please see **Web Server (Hardware)** & **Web Server (Software)**.
+**Web Server** - Hardware, sofware or both working together. Please see **Web Server (Hardware)** & **Web Server (Software)**.
 
-**Web Server (Hardware)** - Computer storing Web Server Software & website's files (images & files with code like HTML, CSS, JavaScript & more). The computer is connected to the Internet & exchanges data with other devices connected to the Internet.
+**Web Server (Hardware)** - Computer storing the Web Server Software & website's files (images & files with code like HTML, CSS, JavaScript & more). The computer is connected to the Internet & exchanges data with other devices connected to the Internet.
 
 **Web Server (Software)** - The software that controls how users on the Internet access hosted files. Includes an HTTP server.
