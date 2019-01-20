@@ -32,11 +32,15 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Full-Stack** - If someone tells you they are a full-stack developer then that person is saying she has the ability to code user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
 
+**Function** - Code that takes input (parameters), processes the input and returns some output.
+
 **Graphical User Interface (GUI)** - The area where the user interacts with an application. Often point-and-click style interaction that allows a user to make selections without writing code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's.
 
 **Hero Image** - A styling reference for a large banner image placed prominently on a web page.
 
 **Hexidecimal (Hex) Color** - A color specified by hex triplet (six-digit, three-byte hexadecimal number) to determine the Red, Green and Blue components of the color by bytes. One byte can specify the color in the range of 00 to FF 00 being least intensity and FF being greatest intensity of the color. White is #FFFFFF in Hex format.
+
+**Home Directory** - The directory/folder for the user (you are logged in as) on your computer. Typically `/users/yourname` on a Mac or `C:/Users/yourname` on a Windows machine.
 
 **Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here:  http://mashable.com/2010/10/06/ide-guide/#kViayEg1.uq4
 
@@ -84,7 +88,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Server-Side** - One piece of the client-server relationship.  Typically a remote server reachable from the user's local computer.  Responsible for serving content to the client or processing and storing data.
 
-**Syntax** - The 'grammar' of a coding language. Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
+**Syntax** - The 'grammar' of a coding language (the format for how you write a specific code statement). Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
 
 **User Experience (UX)** - Optimizing workflow and enhancing user satisfaction by improving the interaction between the consumer and the product. Enhancements are typically guided by scientific research and testing and may include things such as reducing the number of clicks it takes to accomplish a task.
 
