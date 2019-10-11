@@ -34,6 +34,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Graphical User Interface (GUI)** - The area where the user interacts with an application. Often point-and-click style interaction that allows a user to make selections without writing code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's.
 
+**Git** - Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+
 **Hero Image** - A styling reference for a large banner image placed prominently on a web page.
 
 **Hexidecimal (Hex) Color** - A color specified by hex triplet (six-digit, three-byte hexadecimal number) to determine the Red, Green and Blue components of the color by bytes. One byte can specify the color in the range of 00 to FF 00 being least intensity and FF being greatest intensity of the color. White is #FFFFFF in Hex format.
