@@ -61,6 +61,14 @@ A learning community for creators.  Online classes you can watch on your own tim
 [Vim Adventures](http://vim-adventures.com/) - learn commands for a popular command line editor (vim)  
 [Scratch](https://scratch.mit.edu/) - drag and drop programming, this is the meat and potatoes of CoderDojo, one of our sister KCWiT programs!  
 [Code with Anna and Elsa from Frozen](https://studio.code.org/s/frozen/)
+[Flexbox Zombie](https://mastery.games/p/flexbox-zombies) - Become a flexbox expert!
+[Flexbox Froggy](https://flexboxfroggy.com/) - Help Froggy and friends by writing CSS code! 
+
+
+## Validation tools
+[HTML validater](https://validator.w3.org/)  
+[CSS validater](https://jigsaw.w3.org/css-validator/)
+[JavaScript validater](https://codebeautify.org/jsvalidate)
 
 
 ## Free College Computer Science Courses:  
