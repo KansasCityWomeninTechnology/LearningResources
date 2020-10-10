@@ -68,11 +68,11 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **HTTP Server** - Software understanding HTTP (protocol browser uses to view webpages) & URLs (web addresses).
 
-**Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here: [http://mashable.com/2010/10/06/ide-guide](http://mashable.com/2010/10/06/ide-guide)
+**Integrated Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here: [ https://dev.to/vaniukov/top-16-ides-for-software-development-which-one-do-you-choose-hl9]( https://dev.to/vaniukov/top-16-ides-for-software-development-which-one-do-you-choose-hl9)
 
 **JavaScript Library** - Pre-written JavaScript code that can be utilized within your web application.  Examples include jQuery, bxSlider and many more.
 
-**Joint Application Design (JAD)** - A method of developing requirements for software projects where all of the stakeholders collaborate in the development of project requirements, with the intention of improving the quality of requirements and efficency and quality of the eventual solution.
+**Joint Application Design (JAD)** - A method of developing requirements for software projects where all of the stakeholders cogillaborate in the development of project requirements, with the intention of improving the quality of requirements and efficency and quality of the eventual solution.
 
 **Letterbox** - When using the background-size property with the contain value in CSS3, an image with a widescreen aspect ratio will appear with a top and bottom border in order to maintain the height and width proportions of the image. The borders at the top and bottom will be styled according to the properties assigned to the container in which the image is placed. This effect is called Letterboxing because the dimensions of the image cause it to appear to be shaped like a letterbox in a door through which mail is delivered.
 
