@@ -67,8 +67,8 @@ A learning community for creators.  Online classes you can watch on your own tim
 
 ## Validation tools
 [HTML validater](https://validator.w3.org/)  
-[CSS validater](https://jigsaw.w3.org/css-validator/)
-[JavaScript validater](https://codebeautify.org/jsvalidate)
+[CSS validater](https://jigsaw.w3.org/css-validator/)  
+[JavaScript validater](https://codebeautify.org/jsvalidate)  
 
 
 ## Free College Computer Science Courses:  
