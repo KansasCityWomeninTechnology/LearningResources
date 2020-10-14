@@ -68,7 +68,7 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **HTTP Server** - Software understanding HTTP (protocol browser uses to view webpages) & URLs (web addresses).
 
-**Integraged Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here: [http://mashable.com/2010/10/06/ide-guide](http://mashable.com/2010/10/06/ide-guide)
+**Integrated Development Environment (IDE)** - A software application that provides a comprehensive setting for software development to programmers.  Typically includes a code editor, build automation tools and a debugger.  Most will have some form of intelligent code completion and some will contain a compiler, interpreter or both. For more information, look here: [ https://dev.to/vaniukov/top-16-ides-for-software-development-which-one-do-you-choose-hl9]( https://dev.to/vaniukov/top-16-ides-for-software-development-which-one-do-you-choose-hl9)
 
 **JavaScript Library** - Pre-written JavaScript code that can be utilized within your web application.  Examples include jQuery, bxSlider and many more.
 
