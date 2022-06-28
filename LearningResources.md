@@ -50,6 +50,8 @@ Work through tutorials to quickly help you start building your own app.
 [Skillshare](https://www.skillshare.com/):  
 A learning community for creators. Online classes you can watch on your own time.
 
+[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+
 ## Learn coding skills through playing games:
 
 ### CSS
