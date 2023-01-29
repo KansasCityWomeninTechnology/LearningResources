@@ -8,6 +8,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Agile Method (of software development)** - A method commonly used today for software development which is characterized by a focus on rapid product delivery through the use of iterative multi-week periods, called "sprints" and a collaborative, rather than siloed, approach to team member roles.
 
+**A11Y** - “a11y”(often pronounced "A-one-one-Y", "A-eleven-Y", and liberally as "ally") stands for “accessibility.” It is a numeronym, with 11 representing the count of letters between the letter a and the letter y.
+
 **Application Programming Interface (API)** - A set of functions or methods used to access some functionality.
 
 **Architecture** - Rules & methods describing the organization, functionality and implementation of computer systems.
@@ -31,6 +33,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 **Build Tools** - Utilities to help you turn your code into an executable application through compilation, linking and packaging.
 
 **Client-Side** - Client is an application - such as your web browser (Chrome, Internet Explorer, etc) - running on your local computer.  One piece of the client-server relationship.  Often requests information from the server.
+
+**Cloud IDE** - A web-based IDE(Integrated Development Environment). It can be accessed from web browser such as Google Chrome. Examples of cloud IDE are StackBlitz, CodeSandbox etc.
 
 **Data Warehouse** - A repository for data, usually from disparate sources. The common repository allows for more efficient reporting and data analysis.
 
