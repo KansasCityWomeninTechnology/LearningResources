@@ -25,6 +25,10 @@ A set of functions or methods used to access some functionality.
 
 Rules & methods describing the organization, functionality and implementation of computer systems.
 
+### **Array**
+
+a collection of items of same data type stored at contiguous memory locations
+
 ### **(HTML) Attributes**
 
 Used in an opening HTML tag to control tag's behavior. Applying attributes could modify the default functionality of a tag. Some tags require attributes to work correctly.
@@ -32,6 +36,14 @@ Used in an opening HTML tag to control tag's behavior. Applying attributes could
 ### **(Static) Assets**
 
 Files for a website that are served to the visitor as-is (file doesn't have to be generated, modified or processed) -- e.g. CSS, JavaScript, images, videos, pdfs
+
+### **BigInt**
+
+a numeric data type that can represent integers in the arbitrary precision format
+
+### **Boolean**
+
+a logical data type that can have only the values `true` or `false`
 
 ### **Bootstrapping**
 
@@ -53,7 +65,7 @@ _A web developer's best friend._ Different browsers have their own set of develo
 
 Experimental or non-standard CSS Properties made available to developers by browser vendors. Typically the vendors use these prefixes -webkit- (Chrome, newer versions of Opera.), -moz- (Firefox), -o- (Old versions of Opera), -ms- (Internet Explorer)
 
-### >**Bugs**
+### **Bugs**
 
 _A web developer's nemesis._ An error or mistake causing a computer program or website to misbehave. Usually due to a mistake made in the code, _by the developer_.
 
@@ -85,7 +97,7 @@ An application programming interface (API) for valid HTML documents. It defines 
 
 Declaration informing the browser what syntax (set of rules) your HTML document is written in, so the browser can correctly parse the HTML code.
 
-### >**Don't Repeat Yourself (DRY)**
+### **Don't Repeat Yourself (DRY)**
 
 A principle of software development aimed at reducing repetition. That is, don't repeat the same code in multiple locations, that makes code maintenance difficult!
 
@@ -109,7 +121,7 @@ If someone tells you they are a full-stack developer then that person is saying 
 
 Code that takes input (parameters), processes the input and returns some output.
 
-### >**Graphical User Interface (GUI)**
+### **Graphical User Interface (GUI)**
 
 The area where the user interacts with an application. Often point-and-click style interaction that allows a user to make selections without writing code. A dialog box with "save", "close" or "cancel" is one of the simplest kinds of GUI's.
 
@@ -165,6 +177,10 @@ A tool that flags suspicious code in software written in any computer language.
 
 Running a program that checks your code for syntax errors (i.e using double vs single quotes)
 
+### **Loop**
+
+a sequence of instructions that is repeated until a certain condition is reached
+
 ### **Markdown Text**
 
 This document is written in markdown syntax and like HTML, is a basic language used for formatting text documents that can be read and interpreted on the web.
@@ -185,6 +201,14 @@ Removing unnecessary characters such as spaces, new lines and comments to reduce
 
 Used to describe that an object should copy all the properties from another object. Allows extension by inclusion instead of inheritance. In the scope of Sass this is sort of a "function" to allow common styling properties to be re-used across multiple selectors.
 
+### **Null**
+
+a nonexistent or invalid object or address
+
+### **Number**
+
+a numeric data type in the double-precision 64-bit floating point format
+
 ### **Open Source**
 
 A software philosophy that espouses the idea that code should be available to everyone to see and improve upon. In open source, the main requirement is that if you modify code someone else has published, you give credit to the originator and make your improvements available to them and everyone else. The Linux operating systems are built on the concept of open-source, versus Microsoft, which keeps its operating system code very proprietary.
@@ -200,6 +224,10 @@ A tool, like a miniature program, that enhances your developer experience by mak
 ### **Preprocessor**
 
 A tool that will take input data and produce different output that will be used by another program often making code more efficient and easier to read. Examples include Sass and LESS which both extend the CSS language and allow for use of things like variables, etc.
+
+### **Primitive**
+
+a data that is not an object and has no methods or properties. There are 7 primitive data types. String, number, bigint, boolean, undefined, symbol, null
 
 ### **Protocol**
 
@@ -261,6 +289,10 @@ Marketing process to increase the visibility of a website in a search engine's s
 
 One piece of the client-server relationship. Typically a remote server reachable from the user's local computer. Responsible for serving content to the client or processing and storing data.
 
+### **String**
+
+a sequence of characters used to present text
+
 ### **Syntax**
 
 The \_grammar+ of a coding language (the format for how you write a specific code statement). Some languages use ('), some use (") and so forth. Poor syntax can prevent your programs from running.
@@ -268,6 +300,10 @@ The \_grammar+ of a coding language (the format for how you write a specific cod
 ### **`<code>` Tag**
 
 Used to indicate a piece of code in HTML. An HTML element consists of an opening **tag** (ie: `<div>` and a closing **tag** (ie: `/div>`), which surrounds markup that is that element's children/content. (_There are a few exceptions where a **tag** is self-closing. ie:_ `<img />`)
+
+### **Undefined**
+
+a primitive value automatically assigned to variables that have just been declared or to formal arguments for which there are no actual arguments
 
 ### **User Experience (UX)**
 
